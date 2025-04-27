@@ -25,14 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<iframe src="https://www.loom.com/embed/62a66a9f2eb2497c86547928ac380db9?sid=bf01b049-c724-4f8a-9ffa-530f1158d624"
-    frameborder="0" 
-    webkitallowfullscreen 
-    mozallowfullscreen 
-    allowfullscreen 
-    width="640" 
-    height="360">
-</iframe>
+[Watch the Loom Video](https://www.loom.com/share/62a66a9f2eb2497c86547928ac380db9)
 
 ## Notes
 
