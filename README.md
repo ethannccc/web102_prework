@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Loom Video](https://github.com/web102_prework/Prework.gif)
+![](https://github.com/ethannccc/web102_prework/blob/main/assets/Prework.gif) 
 
 ## Notes
 
