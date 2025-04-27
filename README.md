@@ -17,8 +17,6 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [✓] List anything else that you can get done to improve the app functionality!
-
 * Added stats for most and second most backed games
 * Added the relevant numbers associated with the top funded and backed games so users and see the precise numbers
 * Adjusted and tweaked several CSS elements to make the website appear better (height of stats-card, button cursor)
@@ -27,7 +25,14 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video width="500">
+<iframe src="https://www.loom.com/embed/62a66a9f2eb2497c86547928ac380db9?sid=bf01b049-c724-4f8a-9ffa-530f1158d624"
+    frameborder="0" 
+    webkitallowfullscreen 
+    mozallowfullscreen 
+    allowfullscreen 
+    width="640" 
+    height="360">
+</iframe>
 
 ## Notes
 
