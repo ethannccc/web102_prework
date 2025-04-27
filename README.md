@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[Watch the Loom Video](https://www.loom.com/share/62a66a9f2eb2497c86547928ac380db9)
+<img src='https://imgur.com/a/Es2Q2rd' title='Prework Video' width='' alt='Prework Video' />
 
 ## Notes
 
